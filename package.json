@@ -1,0 +1,22 @@
+{
+  "name": "xbl040707tcck",
+  "version": "1.0.1",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbl040707/TCCK.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "xbl040707",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbl040707/TCCK/issues"
+  },
+  "homepage": "https://github.com/xbl040707/TCCK#readme"
+}
